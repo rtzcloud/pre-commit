@@ -1,0 +1,4 @@
+pre-commit 3.7.0
+terraform 1.7.5
+terragrunt 0.45.0
+shellcheck 0.7.1
